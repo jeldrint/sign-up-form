@@ -71,7 +71,7 @@ input{
     padding: 3px 10px;
 }
 
-input:invalid:required{
+input:invalid{
     border: 2px dashed red;
 }
 
