@@ -71,10 +71,6 @@ input{
     padding: 3px 10px;
 }
 
-input:invalid{
-    border: 2px dashed red;
-}
-
 label{
     color: rgba(240,248,255,0.6);
     font-size: 12px;
